@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mahantesh.N.Hadimani.
-- 👀 I’m interested in development field.
-- 🌱 I’m currently learning React Native.
-
+- 👀 Currently I am working for Merahkee Tech Solutions.
+- 🌱 There I am working on ReactNative.
 
 <!---
 mahaahaadi/mahaahaadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
